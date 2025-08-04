@@ -1,0 +1,7 @@
+Read a .txt file into an RDD and process it to do:
+    a. Display total number of words.
+    b. Display total number of UNIQUE words.
+    c. Display the number of words that begin with the latter 'a'.
+    d. Count the frequency of each word in the the file and save the output in a separate file.
+    e. Find the top 5 most frequent words.
+    f. Find the lowest word count and display all the words that have this count.
