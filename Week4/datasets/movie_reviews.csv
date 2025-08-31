@@ -1,0 +1,1001 @@
+userId,movieId,rating,review
+92,176,4.6,Highly recommend
+30,57,2.5,Not bad
+62,64,2.2,Average experience
+64,173,2.1,Average experience
+49,44,3.5,Highly recommend
+66,8,3.2,Terrible
+6,173,1.7,Loved it
+23,111,3.9,Could be better
+89,127,4.9,Loved it
+1,13,3.3,Great movie!
+36,128,4.8,Good acting
+51,54,3.0,Highly recommend
+28,145,2.5,Highly recommend
+59,91,3.8,Great movie!
+35,37,2.2,Good acting
+61,175,2.4,Average experience
+67,15,3.8,Good acting
+79,28,3.5,Highly recommend
+69,166,2.6,Average experience
+78,196,1.8,Not bad
+45,194,2.4,Loved it
+13,199,5.0,Not bad
+99,189,1.2,Good acting
+57,19,2.6,Could be better
+44,19,3.6,Loved it
+90,198,1.9,Great movie!
+52,179,4.8,Terrible
+92,151,4.2,Good acting
+46,179,4.7,Could be better
+92,98,1.8,Waste of time
+100,132,1.6,Loved it
+92,166,3.5,Amazing storyline
+59,121,2.6,Average experience
+30,77,1.1,Could be better
+53,165,1.3,Not bad
+51,169,2.7,Average experience
+28,80,2.6,Amazing storyline
+95,193,2.1,Highly recommend
+3,98,1.0,Average experience
+90,120,4.8,Good acting
+5,149,3.1,Great movie!
+9,178,2.2,Amazing storyline
+41,199,3.3,Could be better
+52,125,4.7,Waste of time
+37,100,2.5,Good acting
+95,126,2.1,Terrible
+18,98,4.3,Great movie!
+47,128,1.3,Loved it
+27,132,3.0,Terrible
+32,8,3.5,Great movie!
+32,168,4.8,Could be better
+42,138,3.0,Waste of time
+2,155,1.1,Average experience
+87,175,4.5,Highly recommend
+87,15,2.5,Not bad
+82,65,2.1,Terrible
+42,126,2.6,Waste of time
+75,94,1.2,Waste of time
+79,46,4.8,Amazing storyline
+87,63,2.5,Could be better
+98,140,4.0,Good acting
+81,18,4.3,Waste of time
+44,119,2.3,Terrible
+10,19,1.6,Amazing storyline
+74,140,2.1,Great movie!
+11,144,2.3,Good acting
+30,148,1.8,Terrible
+18,60,3.4,Loved it
+47,32,2.6,Amazing storyline
+76,89,2.6,Loved it
+15,149,4.2,Terrible
+6,101,3.4,Highly recommend
+9,128,2.2,Not bad
+98,37,3.4,Highly recommend
+58,18,5.0,Not bad
+8,170,2.6,Highly recommend
+30,178,4.6,Terrible
+77,1,2.7,Great movie!
+38,71,4.5,Waste of time
+61,78,2.6,Good acting
+37,105,4.4,Great movie!
+70,47,4.0,Average experience
+61,15,3.4,Good acting
+7,32,1.8,Waste of time
+2,59,3.1,Highly recommend
+93,87,2.7,Good acting
+52,184,1.1,Loved it
+36,68,2.9,Great movie!
+34,123,3.3,Amazing storyline
+60,62,1.2,Terrible
+22,97,4.8,Highly recommend
+91,130,4.6,Great movie!
+71,146,4.8,Highly recommend
+74,8,3.3,Highly recommend
+2,160,1.3,Terrible
+93,118,1.9,Terrible
+77,179,3.3,Could be better
+35,183,2.7,Loved it
+58,155,4.3,Highly recommend
+90,32,2.3,Terrible
+31,103,2.3,Average experience
+25,50,1.3,Good acting
+35,119,1.3,Average experience
+82,88,3.9,Waste of time
+92,133,1.9,Great movie!
+53,133,2.5,Waste of time
+53,56,3.2,Not bad
+68,144,1.7,Average experience
+34,190,3.1,Good acting
+20,93,3.0,Great movie!
+75,60,4.8,Waste of time
+20,33,1.7,Highly recommend
+44,79,1.9,Terrible
+32,193,4.1,Amazing storyline
+15,135,2.8,Average experience
+38,155,2.3,Loved it
+4,140,3.7,Not bad
+32,55,2.1,Terrible
+2,191,1.5,Loved it
+32,76,1.6,Waste of time
+95,57,4.2,Could be better
+30,164,4.2,Terrible
+52,46,4.9,Highly recommend
+45,165,1.3,Average experience
+87,104,4.0,Great movie!
+86,156,4.8,Highly recommend
+57,60,4.7,Amazing storyline
+66,36,1.4,Highly recommend
+29,7,3.4,Highly recommend
+79,178,3.4,Amazing storyline
+78,132,2.0,Not bad
+4,82,2.6,Not bad
+76,169,4.0,Waste of time
+74,57,1.4,Waste of time
+30,181,1.7,Average experience
+24,94,2.4,Great movie!
+11,39,4.1,Could be better
+3,42,4.6,Average experience
+41,190,3.3,Loved it
+100,37,4.1,Loved it
+24,52,1.2,Great movie!
+42,198,2.4,Great movie!
+86,142,2.6,Amazing storyline
+51,61,3.9,Amazing storyline
+75,33,1.2,Good acting
+87,136,4.3,Could be better
+36,192,3.8,Amazing storyline
+90,35,3.4,Could be better
+8,18,1.8,Not bad
+89,47,4.7,Could be better
+14,113,5.0,Amazing storyline
+93,86,4.3,Terrible
+57,79,2.6,Highly recommend
+56,146,2.3,Great movie!
+16,53,2.7,Highly recommend
+78,175,3.3,Highly recommend
+88,18,4.2,Highly recommend
+22,165,3.1,Terrible
+53,24,4.5,Could be better
+49,138,1.6,Average experience
+12,141,2.9,Amazing storyline
+61,98,4.6,Waste of time
+62,35,1.8,Not bad
+63,21,3.3,Great movie!
+50,90,3.9,Great movie!
+60,96,2.4,Great movie!
+27,9,3.3,Great movie!
+81,63,3.2,Amazing storyline
+30,97,4.1,Average experience
+94,103,4.9,Amazing storyline
+14,24,2.5,Could be better
+78,79,2.8,Amazing storyline
+37,39,4.4,Waste of time
+69,112,3.7,Good acting
+57,93,2.4,Could be better
+52,172,2.3,Waste of time
+8,66,4.8,Highly recommend
+57,78,1.3,Highly recommend
+6,76,4.8,Not bad
+93,125,4.3,Average experience
+87,37,1.2,Loved it
+57,17,3.3,Amazing storyline
+52,34,2.1,Good acting
+8,88,1.5,Average experience
+95,150,3.5,Highly recommend
+57,167,2.4,Average experience
+53,122,2.8,Highly recommend
+40,188,2.9,Not bad
+21,102,4.4,Could be better
+70,51,3.8,Not bad
+77,54,1.1,Great movie!
+89,27,1.6,Terrible
+35,40,4.6,Average experience
+46,108,3.8,Highly recommend
+5,67,1.0,Good acting
+2,108,3.2,Terrible
+67,29,3.6,Amazing storyline
+6,141,1.9,Highly recommend
+26,31,1.6,Terrible
+12,151,4.4,Loved it
+32,193,3.5,Good acting
+91,44,1.2,Not bad
+2,131,2.9,Terrible
+31,154,1.2,Not bad
+81,118,2.3,Waste of time
+13,117,4.0,Could be better
+54,156,3.1,Not bad
+51,83,1.9,Highly recommend
+23,136,2.3,Not bad
+33,25,1.6,Could be better
+67,117,1.9,Waste of time
+73,89,3.0,Highly recommend
+85,24,4.9,Average experience
+68,140,1.2,Not bad
+98,195,3.5,Highly recommend
+89,171,2.2,Terrible
+89,146,1.6,Amazing storyline
+21,190,3.7,Highly recommend
+48,103,2.8,Could be better
+16,126,4.1,Great movie!
+45,94,3.3,Good acting
+91,49,4.6,Great movie!
+31,51,1.6,Could be better
+53,94,2.4,Average experience
+33,47,4.5,Great movie!
+46,22,4.2,Highly recommend
+29,102,3.4,Terrible
+94,80,4.9,Highly recommend
+71,48,4.7,Great movie!
+10,95,2.8,Loved it
+7,64,2.5,Great movie!
+56,126,2.1,Could be better
+80,69,3.2,Average experience
+36,97,4.3,Great movie!
+8,18,3.0,Amazing storyline
+75,57,3.2,Terrible
+50,11,3.1,Amazing storyline
+80,75,3.0,Loved it
+56,74,2.0,Waste of time
+48,97,3.9,Waste of time
+38,12,1.6,Terrible
+17,103,2.6,Highly recommend
+59,61,4.3,Loved it
+99,17,1.9,Terrible
+31,90,2.2,Average experience
+31,123,1.9,Highly recommend
+19,144,1.4,Loved it
+78,59,3.9,Average experience
+24,19,3.2,Waste of time
+44,81,3.2,Highly recommend
+1,19,2.5,Waste of time
+89,154,3.9,Not bad
+55,129,2.3,Highly recommend
+53,167,3.4,Great movie!
+9,132,1.4,Good acting
+46,192,1.8,Could be better
+52,156,1.9,Amazing storyline
+71,115,4.1,Waste of time
+79,119,4.6,Great movie!
+25,66,3.7,Amazing storyline
+2,141,4.3,Loved it
+100,28,3.3,Great movie!
+9,174,3.8,Terrible
+36,187,2.5,Great movie!
+92,183,4.5,Loved it
+90,30,3.4,Average experience
+12,189,4.1,Great movie!
+75,117,2.4,Good acting
+52,89,3.9,Good acting
+62,126,4.0,Highly recommend
+14,88,2.2,Good acting
+73,18,1.5,Could be better
+23,145,2.7,Could be better
+14,159,1.8,Waste of time
+40,154,2.1,Highly recommend
+48,100,3.2,Could be better
+98,19,3.2,Average experience
+49,89,4.1,Average experience
+28,62,3.0,Waste of time
+59,145,4.5,Good acting
+94,102,3.5,Average experience
+31,14,2.4,Average experience
+62,177,1.0,Average experience
+100,142,4.3,Good acting
+80,179,1.4,Highly recommend
+92,96,2.1,Good acting
+92,4,4.2,Not bad
+31,153,2.1,Amazing storyline
+23,59,1.6,Great movie!
+47,168,3.6,Could be better
+84,67,1.9,Amazing storyline
+86,174,4.5,Could be better
+78,125,3.7,Amazing storyline
+30,21,2.5,Amazing storyline
+18,36,4.0,Average experience
+63,21,3.3,Waste of time
+26,153,1.4,Could be better
+13,50,3.3,Amazing storyline
+45,146,4.0,Highly recommend
+100,41,2.7,Loved it
+97,29,1.8,Could be better
+78,117,4.8,Waste of time
+40,144,4.2,Great movie!
+53,199,3.1,Terrible
+48,32,4.6,Not bad
+23,121,1.2,Not bad
+52,150,1.4,Not bad
+38,123,3.3,Terrible
+50,191,4.7,Average experience
+36,62,4.9,Great movie!
+91,60,3.4,Average experience
+45,192,1.3,Not bad
+24,70,3.3,Good acting
+49,14,4.5,Loved it
+8,85,2.5,Amazing storyline
+81,85,4.2,Great movie!
+74,198,1.2,Loved it
+75,17,1.0,Loved it
+57,3,4.9,Average experience
+50,10,2.1,Could be better
+74,92,1.8,Loved it
+33,80,4.0,Loved it
+45,142,1.8,Good acting
+32,170,1.1,Highly recommend
+88,160,1.3,Highly recommend
+81,174,4.9,Loved it
+88,82,3.6,Good acting
+95,150,4.7,Great movie!
+45,178,4.9,Waste of time
+36,17,4.4,Average experience
+11,197,2.0,Great movie!
+29,152,1.8,Terrible
+54,105,3.0,Could be better
+32,85,1.8,Not bad
+51,45,4.9,Terrible
+94,123,3.8,Highly recommend
+43,28,1.5,Highly recommend
+7,190,4.5,Amazing storyline
+18,122,3.2,Average experience
+44,185,3.9,Terrible
+88,142,1.4,Loved it
+44,132,3.5,Terrible
+19,88,1.0,Could be better
+65,112,3.9,Terrible
+33,126,3.2,Loved it
+41,190,2.4,Highly recommend
+41,185,3.8,Highly recommend
+79,172,2.8,Loved it
+93,101,3.6,Waste of time
+61,147,4.4,Not bad
+40,115,5.0,Loved it
+66,96,3.8,Loved it
+73,30,1.6,Highly recommend
+69,14,4.4,Not bad
+2,37,3.9,Not bad
+91,192,2.8,Great movie!
+4,104,3.8,Good acting
+89,133,2.9,Terrible
+96,47,1.1,Great movie!
+80,7,3.5,Waste of time
+60,189,3.0,Amazing storyline
+33,3,3.0,Not bad
+1,124,2.0,Amazing storyline
+68,177,1.2,Good acting
+46,6,4.7,Not bad
+94,151,3.7,Not bad
+84,162,2.8,Great movie!
+95,144,5.0,Loved it
+69,22,3.9,Not bad
+11,53,3.3,Not bad
+58,46,3.9,Loved it
+14,129,2.2,Amazing storyline
+37,46,4.0,Average experience
+91,188,2.2,Waste of time
+6,158,3.1,Loved it
+59,141,4.8,Loved it
+32,6,3.9,Waste of time
+73,45,1.4,Not bad
+86,8,4.7,Waste of time
+8,129,1.6,Good acting
+71,133,3.9,Could be better
+72,125,4.1,Could be better
+59,109,4.8,Great movie!
+14,146,1.1,Great movie!
+50,168,4.4,Could be better
+19,28,2.7,Highly recommend
+19,196,2.9,Good acting
+16,26,3.0,Great movie!
+34,132,4.2,Waste of time
+66,152,4.3,Amazing storyline
+7,128,3.6,Average experience
+58,111,3.5,Great movie!
+22,98,4.3,Terrible
+99,72,1.6,Terrible
+95,52,4.0,Waste of time
+10,34,4.6,Not bad
+51,30,3.2,Good acting
+76,134,4.6,Loved it
+21,4,3.1,Terrible
+16,107,2.6,Terrible
+35,7,4.8,Amazing storyline
+4,43,3.9,Loved it
+34,88,2.6,Not bad
+92,75,3.9,Highly recommend
+73,141,2.8,Average experience
+51,111,1.1,Not bad
+9,135,1.5,Great movie!
+73,121,2.9,Loved it
+24,74,1.8,Great movie!
+16,81,4.2,Terrible
+17,33,4.7,Not bad
+72,195,1.6,Highly recommend
+51,56,3.9,Not bad
+26,161,4.6,Could be better
+71,72,4.0,Good acting
+15,192,2.3,Not bad
+17,19,1.6,Terrible
+25,187,1.4,Terrible
+51,153,1.3,Not bad
+2,182,2.4,Loved it
+29,18,2.4,Loved it
+43,13,3.2,Could be better
+49,51,4.6,Waste of time
+58,76,1.3,Good acting
+54,106,2.7,Great movie!
+76,123,2.1,Amazing storyline
+63,153,1.2,Amazing storyline
+40,68,4.8,Loved it
+91,72,1.1,Not bad
+88,75,1.6,Terrible
+31,191,4.8,Terrible
+85,81,3.2,Good acting
+64,53,3.9,Loved it
+76,177,3.4,Loved it
+59,184,1.1,Not bad
+64,149,2.2,Terrible
+86,40,4.8,Great movie!
+23,78,1.5,Good acting
+38,146,1.9,Good acting
+27,147,4.3,Terrible
+51,167,4.4,Not bad
+10,150,2.7,Highly recommend
+76,137,3.7,Terrible
+23,180,1.5,Highly recommend
+52,39,1.4,Terrible
+31,189,4.8,Highly recommend
+56,38,4.9,Average experience
+39,138,4.3,Average experience
+90,78,4.8,Great movie!
+37,88,4.4,Good acting
+81,162,4.2,Great movie!
+9,43,4.3,Highly recommend
+55,98,1.5,Could be better
+79,103,3.1,Could be better
+72,39,2.3,Highly recommend
+82,175,2.4,Average experience
+23,65,1.6,Could be better
+54,34,2.5,Loved it
+99,56,3.7,Great movie!
+61,43,4.2,Waste of time
+32,198,3.4,Loved it
+77,125,2.6,Highly recommend
+5,8,3.3,Waste of time
+88,4,2.8,Waste of time
+58,77,4.4,Great movie!
+75,25,4.2,Highly recommend
+82,45,4.1,Waste of time
+73,18,4.3,Great movie!
+58,109,3.8,Highly recommend
+72,34,1.4,Waste of time
+1,87,1.4,Good acting
+53,99,2.0,Loved it
+37,179,1.5,Could be better
+69,46,1.7,Not bad
+61,45,3.9,Terrible
+49,156,2.0,Great movie!
+34,178,2.6,Average experience
+54,77,2.7,Great movie!
+31,132,2.0,Good acting
+60,85,1.1,Waste of time
+58,4,2.5,Amazing storyline
+20,187,4.2,Terrible
+61,57,2.6,Loved it
+13,14,3.8,Not bad
+75,53,4.4,Terrible
+51,103,2.2,Amazing storyline
+94,141,2.0,Amazing storyline
+19,21,1.7,Great movie!
+95,56,2.8,Good acting
+46,23,1.3,Average experience
+7,86,4.1,Great movie!
+59,122,2.0,Average experience
+26,129,1.7,Terrible
+38,150,4.3,Loved it
+96,111,1.2,Not bad
+5,13,3.7,Loved it
+43,179,2.4,Average experience
+41,129,4.7,Amazing storyline
+83,170,2.8,Amazing storyline
+51,82,4.5,Terrible
+47,28,2.6,Good acting
+63,25,1.6,Could be better
+98,29,2.0,Good acting
+34,11,2.2,Waste of time
+60,6,4.5,Average experience
+99,111,3.1,Average experience
+43,37,1.2,Average experience
+43,78,3.0,Amazing storyline
+38,65,1.4,Highly recommend
+14,102,1.1,Terrible
+23,177,3.1,Great movie!
+14,149,1.4,Could be better
+61,61,2.1,Good acting
+12,67,2.1,Average experience
+66,112,4.5,Terrible
+41,148,3.4,Could be better
+63,167,4.6,Terrible
+99,61,2.1,Good acting
+2,69,4.2,Average experience
+96,163,4.2,Average experience
+18,130,4.9,Average experience
+31,139,1.0,Terrible
+8,180,3.4,Highly recommend
+47,168,1.7,Waste of time
+68,172,1.5,Terrible
+11,161,1.9,Terrible
+62,37,4.6,Waste of time
+44,155,4.7,Highly recommend
+5,125,4.7,Great movie!
+59,98,1.8,Waste of time
+24,88,3.8,Could be better
+78,199,2.7,Terrible
+8,18,1.3,Highly recommend
+3,58,3.5,Not bad
+10,12,4.4,Amazing storyline
+56,92,3.5,Terrible
+89,131,4.6,Terrible
+39,166,2.2,Average experience
+15,96,3.9,Highly recommend
+86,34,4.2,Could be better
+62,197,3.5,Average experience
+59,129,2.4,Loved it
+37,144,3.7,Average experience
+29,68,1.5,Waste of time
+80,140,3.6,Loved it
+29,184,2.3,Great movie!
+66,125,1.9,Loved it
+100,171,3.8,Average experience
+3,177,3.9,Waste of time
+17,86,3.5,Could be better
+49,89,2.8,Could be better
+40,127,3.8,Good acting
+44,171,3.6,Terrible
+41,176,1.0,Average experience
+61,35,1.3,Terrible
+32,162,4.4,Not bad
+53,92,2.2,Good acting
+44,81,1.8,Good acting
+89,126,1.6,Average experience
+26,27,1.4,Not bad
+61,54,2.3,Not bad
+59,76,1.5,Not bad
+42,175,4.7,Average experience
+32,128,2.2,Highly recommend
+17,5,4.5,Good acting
+94,29,3.4,Terrible
+10,1,4.6,Not bad
+26,31,3.3,Terrible
+16,23,1.4,Loved it
+98,139,3.6,Average experience
+16,18,1.1,Good acting
+76,24,4.9,Not bad
+21,6,4.2,Loved it
+2,45,4.7,Good acting
+13,84,3.8,Great movie!
+83,130,2.0,Could be better
+9,174,3.3,Good acting
+95,17,2.5,Could be better
+91,129,3.7,Could be better
+43,132,4.1,Good acting
+20,49,3.0,Could be better
+36,14,1.5,Good acting
+69,134,1.5,Amazing storyline
+7,90,2.2,Average experience
+13,59,2.2,Could be better
+61,188,4.4,Could be better
+96,54,1.7,Good acting
+23,24,3.4,Not bad
+87,100,4.3,Waste of time
+22,184,2.6,Average experience
+48,193,2.0,Highly recommend
+33,54,3.5,Average experience
+69,132,2.6,Average experience
+49,143,3.8,Terrible
+99,200,1.1,Amazing storyline
+11,108,4.9,Good acting
+22,40,4.4,Not bad
+96,36,3.7,Waste of time
+29,135,4.7,Good acting
+74,147,4.6,Not bad
+95,139,3.1,Terrible
+43,174,1.7,Great movie!
+24,103,2.7,Highly recommend
+5,74,3.7,Waste of time
+17,157,5.0,Terrible
+73,150,1.2,Could be better
+7,8,4.7,Average experience
+71,66,2.5,Could be better
+97,51,2.2,Could be better
+23,120,1.8,Loved it
+92,99,2.5,Average experience
+92,124,2.6,Waste of time
+27,110,2.2,Loved it
+3,116,2.7,Not bad
+9,7,3.7,Great movie!
+48,6,2.2,Terrible
+2,42,2.7,Could be better
+50,165,3.8,Good acting
+78,136,1.9,Great movie!
+89,22,4.4,Average experience
+37,169,4.5,Highly recommend
+88,33,2.1,Terrible
+43,192,4.8,Good acting
+70,160,3.2,Could be better
+41,79,4.7,Good acting
+91,33,2.3,Good acting
+43,169,2.9,Amazing storyline
+12,4,4.1,Loved it
+31,165,2.8,Average experience
+1,166,4.3,Terrible
+31,61,4.6,Highly recommend
+90,75,3.9,Could be better
+86,113,4.0,Amazing storyline
+26,16,4.2,Loved it
+55,97,3.5,Terrible
+17,103,2.2,Could be better
+18,122,1.4,Loved it
+44,172,3.5,Terrible
+96,115,4.3,Amazing storyline
+85,139,4.2,Loved it
+89,44,4.3,Good acting
+3,192,2.7,Average experience
+75,46,1.4,Highly recommend
+53,98,4.8,Terrible
+69,47,4.6,Loved it
+49,155,3.8,Loved it
+26,122,1.5,Not bad
+72,113,4.8,Loved it
+83,87,2.3,Average experience
+11,40,4.5,Amazing storyline
+2,3,4.9,Waste of time
+25,122,2.2,Average experience
+100,58,3.4,Terrible
+95,120,1.1,Waste of time
+58,54,1.4,Loved it
+93,19,2.9,Not bad
+36,10,2.3,Waste of time
+18,135,3.5,Great movie!
+89,54,5.0,Not bad
+84,18,4.7,Not bad
+16,37,4.4,Not bad
+77,44,4.9,Could be better
+96,57,3.2,Good acting
+87,29,3.9,Great movie!
+50,39,1.1,Terrible
+15,156,1.3,Great movie!
+39,59,2.3,Highly recommend
+60,44,1.6,Amazing storyline
+79,131,4.6,Amazing storyline
+100,87,2.3,Highly recommend
+68,65,3.0,Loved it
+26,110,2.8,Terrible
+94,8,2.1,Average experience
+53,34,1.8,Terrible
+19,167,1.1,Not bad
+89,130,2.9,Could be better
+17,142,2.7,Amazing storyline
+4,112,4.1,Loved it
+9,3,2.9,Loved it
+50,43,1.2,Loved it
+32,109,1.4,Waste of time
+17,104,4.0,Amazing storyline
+19,17,3.8,Average experience
+58,99,4.7,Waste of time
+92,21,1.9,Could be better
+93,101,4.5,Good acting
+48,14,1.3,Amazing storyline
+86,98,3.7,Could be better
+75,1,1.5,Not bad
+85,180,4.0,Waste of time
+49,102,3.6,Loved it
+49,37,3.1,Great movie!
+74,27,2.0,Average experience
+17,131,1.5,Loved it
+6,125,1.0,Great movie!
+33,125,1.7,Could be better
+61,164,1.2,Great movie!
+95,181,1.5,Amazing storyline
+33,70,3.8,Amazing storyline
+53,104,2.2,Amazing storyline
+50,192,2.0,Terrible
+48,88,1.9,Amazing storyline
+18,190,2.1,Could be better
+47,2,3.5,Not bad
+90,1,3.9,Average experience
+78,18,1.2,Good acting
+52,170,1.6,Average experience
+70,161,4.3,Great movie!
+49,41,2.6,Loved it
+70,165,4.8,Great movie!
+33,63,2.6,Great movie!
+18,147,1.6,Waste of time
+30,30,2.8,Could be better
+19,94,3.0,Amazing storyline
+25,140,3.9,Not bad
+55,96,2.8,Not bad
+57,62,4.8,Good acting
+53,36,2.0,Waste of time
+33,120,1.8,Not bad
+50,142,2.5,Terrible
+93,21,2.0,Great movie!
+73,89,3.8,Loved it
+71,181,4.7,Good acting
+15,176,2.4,Loved it
+88,43,2.0,Amazing storyline
+98,191,3.6,Loved it
+48,30,4.2,Not bad
+36,126,4.2,Waste of time
+56,81,1.2,Terrible
+26,71,1.3,Not bad
+6,69,4.7,Amazing storyline
+38,89,3.8,Highly recommend
+12,34,2.1,Average experience
+59,57,3.9,Great movie!
+61,200,2.5,Loved it
+71,130,4.7,Amazing storyline
+44,127,1.8,Could be better
+39,62,4.3,Average experience
+30,61,2.4,Loved it
+80,180,1.1,Waste of time
+14,110,1.8,Waste of time
+49,166,3.0,Not bad
+24,25,1.4,Waste of time
+84,43,4.3,Not bad
+67,4,2.7,Waste of time
+56,71,3.0,Great movie!
+28,116,4.9,Could be better
+8,187,3.8,Not bad
+54,139,4.0,Loved it
+77,42,4.4,Terrible
+55,113,4.7,Average experience
+87,152,4.2,Terrible
+69,9,2.2,Average experience
+46,107,1.3,Average experience
+97,78,3.2,Not bad
+92,150,4.9,Amazing storyline
+36,122,4.4,Could be better
+50,65,3.4,Could be better
+20,189,2.3,Could be better
+44,141,2.0,Could be better
+34,102,3.1,Amazing storyline
+81,153,2.8,Not bad
+88,40,1.4,Loved it
+88,133,4.0,Terrible
+70,114,4.0,Great movie!
+68,70,4.6,Could be better
+80,117,1.3,Not bad
+55,171,2.4,Loved it
+44,19,4.2,Good acting
+66,7,1.4,Not bad
+69,2,3.1,Amazing storyline
+51,79,2.5,Highly recommend
+30,139,3.7,Not bad
+48,67,1.9,Great movie!
+38,150,4.5,Amazing storyline
+84,125,3.8,Loved it
+29,50,3.2,Loved it
+58,138,3.6,Loved it
+73,74,2.0,Terrible
+47,121,2.7,Good acting
+94,108,2.1,Highly recommend
+36,68,4.9,Average experience
+83,28,2.5,Loved it
+83,72,1.4,Great movie!
+57,175,1.8,Not bad
+62,95,3.3,Good acting
+9,164,1.9,Great movie!
+16,49,3.7,Good acting
+20,15,1.3,Amazing storyline
+13,182,3.0,Highly recommend
+69,118,1.1,Average experience
+70,97,2.7,Waste of time
+22,40,4.9,Highly recommend
+93,126,2.4,Waste of time
+34,147,4.0,Terrible
+30,7,3.3,Loved it
+73,165,1.0,Could be better
+22,59,3.8,Loved it
+66,66,2.1,Average experience
+43,42,4.1,Not bad
+70,81,3.3,Great movie!
+3,147,3.3,Amazing storyline
+33,98,4.0,Terrible
+50,186,3.7,Waste of time
+91,164,2.4,Could be better
+64,181,2.3,Average experience
+63,54,1.4,Loved it
+25,194,1.6,Not bad
+44,149,1.8,Not bad
+28,195,3.1,Good acting
+2,149,3.4,Good acting
+36,47,2.7,Waste of time
+76,155,3.1,Amazing storyline
+49,129,2.0,Could be better
+5,200,4.8,Good acting
+48,152,1.2,Terrible
+12,134,3.8,Terrible
+64,116,1.4,Amazing storyline
+99,79,3.6,Good acting
+12,83,3.5,Highly recommend
+79,134,4.2,Could be better
+9,163,4.9,Not bad
+39,55,1.4,Great movie!
+85,29,4.5,Highly recommend
+27,103,3.5,Average experience
+74,74,1.3,Highly recommend
+44,79,1.5,Could be better
+41,99,3.7,Highly recommend
+51,58,3.8,Average experience
+19,92,3.4,Terrible
+78,151,2.8,Good acting
+75,63,3.0,Waste of time
+13,127,3.3,Highly recommend
+84,19,1.0,Great movie!
+15,70,5.0,Waste of time
+100,37,1.7,Amazing storyline
+13,57,2.8,Not bad
+46,163,3.5,Loved it
+4,68,2.9,Average experience
+87,25,2.2,Highly recommend
+95,107,1.3,Waste of time
+65,193,2.2,Not bad
+87,127,2.7,Highly recommend
+9,119,3.3,Terrible
+29,117,4.2,Loved it
+33,184,3.6,Average experience
+7,171,1.1,Could be better
+1,76,2.0,Not bad
+68,196,2.2,Loved it
+68,2,4.8,Waste of time
+11,106,1.1,Amazing storyline
+94,117,2.6,Could be better
+37,40,2.9,Not bad
+38,185,3.8,Not bad
+97,78,3.9,Highly recommend
+20,178,1.8,Amazing storyline
+72,44,1.3,Amazing storyline
+51,14,2.7,Loved it
+26,21,1.1,Not bad
+71,185,4.1,Amazing storyline
+74,7,1.9,Highly recommend
+95,9,2.3,Great movie!
+72,151,1.8,Highly recommend
+5,9,3.5,Waste of time
+27,138,2.3,Could be better
+9,93,2.7,Great movie!
+88,19,2.1,Great movie!
+40,25,4.4,Could be better
+16,189,1.9,Highly recommend
+1,171,3.1,Could be better
+22,98,4.3,Loved it
+39,92,3.0,Great movie!
+51,200,1.2,Great movie!
+25,199,3.9,Could be better
+22,16,3.4,Waste of time
+83,69,2.7,Highly recommend
+87,76,3.7,Great movie!
+21,43,4.8,Highly recommend
+19,104,1.3,Average experience
+74,171,2.4,Terrible
+58,68,4.1,Highly recommend
+2,125,1.9,Highly recommend
+35,154,3.4,Average experience
+80,60,3.4,Terrible
+66,167,1.5,Could be better
+7,38,1.8,Loved it
+20,42,3.1,Average experience
+84,62,2.6,Not bad
+44,123,3.8,Average experience
+49,195,1.1,Amazing storyline
+59,73,3.9,Highly recommend
+9,95,1.7,Great movie!
+45,64,2.3,Waste of time
+64,3,3.4,Not bad
+69,126,1.5,Could be better
+63,68,2.6,Average experience
+77,102,1.3,Amazing storyline
+46,63,1.6,Waste of time
+23,164,3.7,Loved it
+60,164,3.3,Terrible
+7,173,4.9,Amazing storyline
+12,71,4.1,Terrible
+50,162,2.7,Terrible
+82,140,2.3,Not bad
+67,64,4.1,Highly recommend
+50,53,3.6,Terrible
+89,60,1.8,Waste of time
+40,4,4.0,Great movie!
+25,110,4.0,Good acting
+74,5,2.0,Amazing storyline
+36,179,3.7,Could be better
+69,185,2.6,Amazing storyline
+41,145,4.3,Waste of time
+32,190,2.9,Could be better
+11,13,3.7,Waste of time
+5,67,2.7,Could be better
+35,189,2.2,Not bad
+77,109,1.2,Average experience
+62,139,4.0,Good acting
+48,62,1.5,Average experience
+24,34,2.6,Amazing storyline
+68,98,4.5,Highly recommend
+59,94,3.4,Good acting
+98,98,3.3,Not bad
+74,153,2.4,Not bad
+70,114,1.5,Highly recommend
+36,34,4.6,Not bad
+35,168,4.1,Average experience
+48,136,1.1,Great movie!
+98,37,3.2,Amazing storyline
+39,101,4.1,Great movie!
+57,129,2.6,Amazing storyline
+58,114,2.4,Terrible
+15,160,2.1,Loved it
+62,199,1.1,Waste of time
+32,97,2.0,Not bad
+49,30,3.4,Average experience
+54,147,2.8,Loved it
+63,6,1.4,Great movie!
+57,118,4.7,Amazing storyline
+58,17,2.2,Waste of time
+76,124,3.1,Highly recommend
+20,159,1.8,Terrible
+74,97,3.4,Loved it
+74,144,2.5,Great movie!
+59,105,4.0,Could be better
+80,159,1.8,Terrible
+24,148,1.8,Highly recommend
+92,167,4.8,Loved it
+70,23,2.5,Amazing storyline
+56,55,2.0,Average experience
+83,165,1.0,Great movie!
+24,158,4.5,Highly recommend
+23,153,4.8,Not bad
+88,30,1.6,Could be better
+44,181,3.5,Could be better
+12,174,1.7,Average experience
+59,155,2.5,Not bad
+75,38,4.1,Highly recommend
+36,190,3.9,Amazing storyline
+81,60,4.3,Great movie!
+64,83,3.9,Good acting
+63,130,4.4,Not bad
+11,186,1.5,Great movie!
+35,57,1.0,Could be better
+8,134,3.9,Loved it
+5,124,2.9,Terrible
+54,7,3.7,Amazing storyline
+17,190,4.6,Terrible
+72,49,3.0,Not bad
+94,93,2.5,Could be better
+84,45,1.7,Good acting
+94,171,2.6,Not bad
+54,34,2.2,Good acting
+18,183,4.0,Great movie!
+2,179,2.1,Great movie!
+49,179,4.3,Average experience
+2,83,4.3,Highly recommend
+70,187,3.8,Could be better
+37,154,1.4,Good acting
+98,45,4.9,Not bad
+82,104,2.0,Average experience
+97,24,4.6,Not bad
+21,18,3.8,Not bad
+71,62,1.3,Good acting
+22,55,4.2,Terrible
+17,11,1.8,Average experience
+5,5,3.4,Loved it
+88,9,3.0,Average experience
+3,175,3.1,Not bad
+56,134,4.3,Loved it
+98,98,2.8,Waste of time
+48,116,4.9,Not bad
+69,16,2.4,Good acting
+16,37,1.6,Amazing storyline
+26,162,4.7,Great movie!
+73,123,4.2,Waste of time
+96,38,3.9,Loved it
+90,25,3.5,Good acting
+54,170,3.1,Waste of time
