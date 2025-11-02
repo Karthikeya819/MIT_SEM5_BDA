@@ -1,1 +1,4 @@
 BdaEnv/
+MiniProject/datasets/air_quality_data/*.csv
+MiniProject/output/
+MiniProject/processed
